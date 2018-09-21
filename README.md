@@ -36,4 +36,4 @@ Use of non-relational and relational stores. MySQL & MongoDB
 
 
 How to Run: 
-python driver_query.py
+python driver_query.py on command line
