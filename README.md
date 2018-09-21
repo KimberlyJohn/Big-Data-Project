@@ -1,4 +1,4 @@
-# Big Data Project Assignment: 
+# Big Data Project:
 
 Developed a knowlegde base, which allows users to mine genomic data of Alzheimer's Disease Patients. 
 Given Raw Data files: 
