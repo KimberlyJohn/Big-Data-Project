@@ -35,4 +35,5 @@ A python command-line client interface for database creation and quert
 Use of non-relational and relational stores. MySQL & MongoDB 
 
 
-
+How to Run: 
+python driver_query.py
